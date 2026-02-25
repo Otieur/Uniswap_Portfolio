@@ -24,6 +24,3 @@ Product Lead and UX Researcher. Led multi-phase research and translated findings
 ## Key findings and iterations
 - Identified friction points such as unclear transaction status visibility, confusing pickup confirmation, and dense item posting layout.
 - Iterated the prototype with clearer field grouping, improved navigation consistency, and more visible status and review entry points.
-
-## Web application
-Built the UniSwap web-based UI in React and iterated the front end based on research findings and usability feedback.
