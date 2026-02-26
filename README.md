@@ -8,10 +8,10 @@ This page is structured to match common UX UI Designer expectations: user flows 
 - Figma high fidelity interactive prototype: https://www.figma.com/proto/qWJnSJfVpX0d3ArfxpyH1h/CSCC10-Prototype-for-Phase-3?node-id=94-531&starting-point-node-id=94%3A531
 - Case study: ./case-study.md
 - Reports
-  - Phase 1 Project Proposal: ./Phase1_ProjectProposal.pdf
-  - Phase 2 User Requirements: ./UniSwap_Phase2_UserRequirements.pdf
-  - Phase 3 Interactive Prototype: ./Phase3_InteractivePrototype.pdf
-  - Phase 4 Final Report and Usability Study: ./Phase4_FinalReport_UsabilityStudy.pdf
+  - Phase 1 Project Proposal:./Phase1_ProjectProposal.pdf
+  - Phase 2 User Requirements:./Phase2_UserRequirements.pdf
+  - Phase 3 Interactive Prototype:./Phase3_InteractivePrototype.pdf
+  - Phase 4 Final Report and Usability Study:./Phase4_FinalReport_UsabilityStudy.pdf
 
 ## My role
 Product Lead and UX Researcher in a six person team. I led multi phase research, translated insights into user flows and a high fidelity Figma prototype, and ran usability evaluation to prioritize iterations and future work.
